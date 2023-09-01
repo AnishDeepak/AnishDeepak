@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tadepalli Anish Deepak</h1>
-<h3 align="center">Data Scientist and Python developer</h3>
+<h3 align="center">Data Scientist and Python developer and part time tutor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishdeepak&label=Profile%20views&color=0e75b6&style=flat" alt="anishdeepak" /> </p>
 
@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **python,data pipeline,data science,ML**
 
-- 📫 How to reach me **anishmlcources.co.in**
+- 📫 Check my website **anishmlcources.co.in**
+
+- ⚡ Fun fact **I think I am curious and also lazy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
