@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishdeepak&label=Profile%20views&color=0e75b6&style=flat" alt="anishdeepak" /> </p>
 
-- 🔭 I’m currently working on [Haathi.ai](https://www.haathi.ai/)
+- 🔭 I’m currently working on [Text2Sql]
 
-- 🌱 I’m currently learning **Pyspark**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnishDeepak?tab=repositories](https://github.com/AnishDeepak?tab=repositories)
 
